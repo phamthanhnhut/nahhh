@@ -1,6 +1,4 @@
 hey u
-<<<<<<< HEAD
 456
-=======
 123
->>>>>>> 4fbdecdf282c421f7ac25fd9982c10ddaf1ae139
+
